@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <div class="wrapper">
+    <div class="containers">
       <div class="user-container">
         <label for="nickname">닉네임</label>
         <input
@@ -16,7 +16,9 @@
           id="nickname"
           autofocus
           placeholder="닉네임을 입력해주세요"
+          required
         />
+        <button class="confirm-button disabled">확인</button>
       </div>
       <div class="display-container">
         <ul class="chatting-list"></ul>
