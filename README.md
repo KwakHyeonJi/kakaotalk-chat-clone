@@ -1,6 +1,6 @@
 # Introduction
 
-- Chat app (KakaoTalk ver)
+- Chat page (KakaoTalk ver)
 
 # Demo
 
